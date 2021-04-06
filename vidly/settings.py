@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-^we!j%*%2bszomdsv1*iccudt4_vm@ol1w(p!v1%@x3qrj@f4=
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://vidlyapi.herokuapp.com/'
+    'vidlyapi.herokuapp.com/'
 ]
 
 
