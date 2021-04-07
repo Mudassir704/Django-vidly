@@ -18,9 +18,9 @@
 
 > `'/movies/:id'` -> Description of particular movie
 
-> `'api/movies'` -> api of List of movies
+> `'/api/movies'` -> api of List of movies
 
-> `'api/movies/:id'` -> Description of particular movie
+> `'/api/movies/:id'` -> Description of particular movie
 
 > `'/admin'` -> Admin Panel design by Django and customize using Admin Class.
 
